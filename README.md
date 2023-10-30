@@ -23,8 +23,8 @@ Love To Share And Help
 
 Follow Me On 
 - Instagram   : 🔗https://instagram.com/kelvinrll/
-- LinkedIn    : 🔗https://www.linkedin.com/in/kelvinerlangga
-- Github      : 🔗https://github.com/KelvinErlangga
+- LinkedIn    : 🔗https://www.linkedin.com/in/kelvinerlangga/
+- Github      : 🔗https://github.com/KelvinErlangga/
 - Email       : kelvinerlanggaa@gmail.com
 
 Big Thanks 
