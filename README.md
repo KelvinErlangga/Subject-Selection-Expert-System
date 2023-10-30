@@ -35,4 +35,4 @@ Big Thanks
 
 
 <h1>Preview</h1>
-<img src="https://github.com/KelvinErlangga/Subject-Selection-Expert-System/assets/120378386/d5609a1a-46fc-4e7c-9044-fd6c1058e5a1"></img>
+<img src="https://github.com/KelvinErlangga/Subject-Selection-Expert-System/assets/120378386/17d2078b-1db3-46f2-ab53-44fdaba199b3"></img>
